@@ -14,7 +14,8 @@ Functionality: scraping multiple amazon web pages for your item, setting a price
 
 * bs4 (BeautifulSoup4)
 * requests
-* lxml 
+* lxml
+* rich
 
 ## How to use (NOTE: -i or --item and -n or --num are required fields):
 
